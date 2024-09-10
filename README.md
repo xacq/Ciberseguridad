@@ -1,13 +1,4 @@
 # Hacking Tools Repository
-<img align = "" src="https://github.com/aw-junaid/aw-junaid/blob/main/peakpx.jpg" width="1000" height="150" alt="awjunaid">
-
-![Discord](https://img.shields.io/discord/1163365511309049948)
-![GitHub followers](https://img.shields.io/github/followers/aw-junaid)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UClhKVCHjOxBTNM50lOBTgoA)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClhKVCHjOxBTNM50lOBTgoA)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/awjunaid_)
-![Twitch Status](https://img.shields.io/twitch/status/awjunaid)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/aw-junaid)
 
 ## Warning
 
